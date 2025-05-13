@@ -1,10 +1,5 @@
 <h1 align="center">Olá! Seja bem-vindo(a) ao meu perfil! 👋</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide=contribs" alt="GitHub Stats">
-</div>
-
 ---
 
 ## 🧑‍💻 Sobre mim
