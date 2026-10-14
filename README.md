@@ -7,7 +7,7 @@
 - 💼 Profissional de TI com experiência em **suporte técnico e infraestrutura**  
 - 🎓 Formado em Ciência da Computação pela **Faculdade de Americana (FAM)**  
 - 🧠 Apaixonado por tecnologia, aprendizado contínuo e soluções práticas  
-- 🚀 Estudando e buscando oportunidades nas áreas de **suporte, desenvolvimento e banco de dados**
+- 🚀 Estudando e buscando oportunidades nas áreas de **ciência de dados e inteligência artificial**
 
 ---
 
